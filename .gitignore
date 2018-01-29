@@ -5,6 +5,7 @@ $py.class
 
 # C extensions
 .so
+.wav
 
 # Distribution  packaging
 .Python
